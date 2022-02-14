@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Shteyd :wave:
 
-<!--
-**Shteyd/Shteyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :monocle_face: Technology stack:
+- Dart - main lang
+- Flutter - main framework
+- Python - simple scripts / simple django-rest
+- MySQL & PostgreSQL - to store data
 
-Here are some ideas to get you started:
+## My own projects:
+- Clean architecture [weather app](https://github.com/Shteyd/weather_app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Team projects:smile::
+- Clean architecture [quiz_app](https://github.com/nikolai-2/quiz_app)
+- [Application](https://github.com/nikolai-2/bastion_skatguard_mobile) for security guards "ПО Бастион"
+
+# About me:cowboy_hat_face::
+- Study at the Don State Technical University (DSTU), Rostov-on-Don
+- tg: t.me/Shteyd
