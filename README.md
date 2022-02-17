@@ -4,7 +4,7 @@
 - Dart - main lang
 - Flutter - main framework
 - Python - simple scripts / simple django-rest
-- MySQL & PostgreSQL - to store data
+- MySQL & PostgreSQL & Sembast - to store data
 
 ## My own projects:
 - Clean architecture [weather app](https://github.com/Shteyd/weather_app)
