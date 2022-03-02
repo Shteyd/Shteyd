@@ -3,11 +3,15 @@
 # :monocle_face: Technology stack:
 - Dart - main lang
 - Flutter - main framework
-- Python - simple scripts / simple django-rest
 - MySQL & PostgreSQL & Sembast - to store data
+
+#### Also have experience:sweat_smile::
+- Python (lang, django-simple-rest, PySimpleGUI)
+- Java (lang, native android)
 
 ## My own projects:
 - Clean architecture [weather app](https://github.com/Shteyd/weather_app)
+- [App for Don State Technical University](https://github.com/Shteyd/DSTU_app) (in progress)
 
 ## Team projects:smile::
 - Clean architecture [quiz_app](https://github.com/nikolai-2/quiz_app)
@@ -15,4 +19,5 @@
 
 # About me:cowboy_hat_face::
 - Study at the Don State Technical University (DSTU), Rostov-on-Don
-- tg: t.me/Shteyd
+- vk: [@pub_dev](https://vk.com/pub_dev)
+- tg: [t.me/Shteyd](t.me/Shteyd)
