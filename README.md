@@ -18,7 +18,9 @@
 - [Application](https://github.com/nikolai-2/bastion_skatguard_mobile) for security guards "ПО Бастион"
 
 # About me:cowboy_hat_face::
-- Study at the Don State Technical University (DSTU), Rostov-on-Don
+Study at the Don State Technical University (DSTU), Rostov-on-Don
+
+Contact with me:
 - linkedin: [https://www.linkedin.com/in/shteyd/](https://www.linkedin.com/in/shteyd/)
 - vk: [@pub_dev](https://vk.com/pub_dev)
 - tg: [t.me/Shteyd](t.me/Shteyd)
