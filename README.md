@@ -10,7 +10,6 @@
 
 ## My own projects:
 - Clean architecture [weather app](https://github.com/Shteyd/weather_app)
-- [App for Don State Technical University](https://github.com/Shteyd/DSTU_app) (in progress)
 
 ## Team projects:smile::
 - Clean architecture [quiz_app](https://github.com/nikolai-2/quiz_app)
