@@ -1,12 +1,9 @@
 ### Hi, I'm Shteyd :wave:
 
 # :monocle_face: Technology stack:
-- Dart - main lang
+- Dart / GoLang - langs
 - Flutter - main framework
 - MySQL & PostgreSQL & Sembast - to store data
-
-#### Also have experience:sweat_smile::
-- Java (lang, native android)
 
 ## My own projects:
 - Clean architecture [weather app](https://github.com/Shteyd/weather_app)
@@ -20,7 +17,6 @@
 Study at the Don State Technical University (DSTU), Rostov-on-Don
 
 Contact with me:
-- linkedin: [https://www.linkedin.com/in/shteyd/](https://www.linkedin.com/in/shteyd/)
-- vk: [@pub_dev](https://vk.com/pub_dev)
 - tg: [t.me/Shteyd](t.me/Shteyd)
+- vk: [@pub_dev](https://vk.com/pub_dev)
 - habr: [@shteyd](https://career.habr.com/shteyd)
