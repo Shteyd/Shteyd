@@ -18,5 +18,5 @@ Study at the Don State Technical University (DSTU), Rostov-on-Don
 
 Contact with me:
 - tg: [t.me/Shteyd](t.me/Shteyd)
-- vk: [@pub_dev](https://vk.com/pub_dev)
+- vk: [@shteyd](https://vk.com/shteyd)
 - habr: [@shteyd](https://career.habr.com/shteyd)
