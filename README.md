@@ -1,22 +1,29 @@
-### Hi, I'm Shteyd :wave:
-
-# :monocle_face: Technology stack:
-- Dart / GoLang - langs
-- Flutter - main framework
-- MySQL & PostgreSQL & Sembast - to store data
-
-## My own projects:
-- Clean architecture [weather app](https://github.com/Shteyd/weather_app)
-
-## Team projects:smile::
-- Clean architecture [quiz_app](https://github.com/nikolai-2/quiz_app)
-- Corporate accounting app and evening events [afisha_front](https://github.com/nikolai-2/afisha_front)
-- [Application](https://github.com/nikolai-2/bastion_skatguard_mobile) for security guards "ПО Бастион"
-
-# About me:cowboy_hat_face::
-Study at the Don State Technical University (DSTU), Rostov-on-Don
-
-Contact with me:
-- tg: [t.me/Shteyd](t.me/Shteyd)
-- vk: [@shteyd](https://vk.com/shteyd)
-- habr: [@shteyd](https://career.habr.com/shteyd)
+<h1 align="center">Hi, I'm Shteyd :wave:</h1>
+<h3>About me:cowboy_hat_face::</h3>
+<div>
+  Study at the Don State Technical University (DSTU), Rostov-on-Don
+  Actively work on start-up: [@weeabook](https://github.com/weeabook)
+</div>
+<h3>Contact with me:</h3>
+<ul>
+  <li>tg: <a href="https://t.me/shteyd">@shteyd</a></li>
+  <li>vk: <a href="https://vk.com/shteyd">@shteyd</a></li>
+  <li>habr: <a href="https://career.habr.com/shteyd">@shteyd</a></li>
+</ul>
+<h3>Tech stack:</h3>
+<div>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
