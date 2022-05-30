@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Shteyd :wave:</h1>
 <h3>About me:cowboy_hat_face::</h3>
-<div>
-  Study at the Don State Technical University (DSTU), Rostov-on-Don
-  Actively work on start-up: [@weeabook](https://github.com/weeabook)
-</div>
+<p>
+  Study at the Don State Technical University (DSTU), Rostov-on-Don<br>
+  Actively work on start-up: <a href="https://github.com/weeabook">@weeabook</a>
+</p>
 <h3>Contact with me:</h3>
 <ul>
   <li>tg: <a href="https://t.me/shteyd">@shteyd</a></li>
