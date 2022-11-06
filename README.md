@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Gorobets aka Shteyd</h1>
-<h3 align="center">Golang Software Engineer from Russia</h3>
+<h3 align="center">Golang Software Engineer</h3>
 
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shteyd&theme=github_dark" alt="shteyd" /></p>
 
