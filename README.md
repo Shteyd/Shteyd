@@ -22,7 +22,10 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shteyd&theme=transparent" />
         </a>
         <a href="https://github.com/Shteyd">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shteyd&langs_count=10&exclude_repo=&hide=cmake,makefile,batchfile,css,html,swift,Objective-C,Kotlin&layout=default&card_width=699&hide_border=true&theme=transparent" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shteyd&theme=transparent" />
+        </a>
+        <a href="https://github.com/Shteyd">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shteyd&theme=transparent" />
         </a>
     </p>
 </details>
@@ -33,3 +36,5 @@
   <a href="https://t.me/Shteyd"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" height="30" width="30"/></a>
   <a href="https://career.habr.com/Shteyd"><img align="center" src="https://www.citeck.ru/wp-content/uploads/2021/08/%D0%BB%D0%BE%D0%B3%D0%BE-%D1%85%D0%B0%D0%B1%D1%80.jpg" height="30" width="30"/></a>
 </p>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shteyd&langs_count=10&exclude_repo=&hide=cmake,makefile,batchfile,css,html,swift,Objective-C,Kotlin&layout=default&card_width=699&hide_border=true&theme=transparent" /> -->
