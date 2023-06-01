@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shteyd&theme=github_dark" alt="Shteyd" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shteyd&theme=transparent" alt="Shteyd" />
 </p>
 
 <p align="center">
@@ -12,6 +12,20 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" width="40" height="40"/></a>
 </p>
+
+<detail>
+    <p align="center">
+        <a href="https://github.com/Shteyd">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shteyd&hide_border=true&card_width=338&theme=transparent" />
+        </a>
+        <a href="https://github.com/Shteyd">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shteyd&theme=transparent" />
+        </a>
+        <a href="https://github.com/Shteyd">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shteyd&langs_count=10&exclude_repo=&hide=cmake,makefile,batchfile,css,html,swift,Objective-C,Kotlin&layout=default&card_width=699&hide_border=true&theme=transparent" />
+        </a>
+    </p>
+</detail>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
