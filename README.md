@@ -13,7 +13,7 @@
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq" width="40" height="40"/></a>
 </p>
 
-<detail>
+<details>
     <p align="center">
         <a href="https://github.com/Shteyd">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shteyd&hide_border=true&card_width=338&theme=transparent" />
@@ -25,7 +25,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shteyd&langs_count=10&exclude_repo=&hide=cmake,makefile,batchfile,css,html,swift,Objective-C,Kotlin&layout=default&card_width=699&hide_border=true&theme=transparent" />
         </a>
     </p>
-</detail>
+</details>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
