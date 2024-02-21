@@ -19,7 +19,8 @@ Backend Golang Developer
     <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-GNU_Bash-black?style=for-the-badge&logo=gnubash&logoColor=ffffff" alt="GNU Bash" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker" /></a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=ffffff" alt="RabbitMQ" />
+    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-RabbitMQ-black?style=for-the-badge&logo=rabbitmq&logoColor=ffffff" alt="RabbitMQ" /></a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=ffffff" alt="Apache Kafka" /></a>
 </div>
 
 <hr>
