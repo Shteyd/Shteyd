@@ -33,6 +33,7 @@ Backend Golang Developer
 
 <h2 align="left">Contact with me:</h2>
 <p align="left">
-  <a href="https://t.me/Shteyd"><img align="center" src="https://img.shields.io/badge/-Shteyd-black?style=for-the-badge&logo=telegram&logoColor=ffffff" /></a>
-  <a href="https://career.habr.com/Shteyd"><img align="center" src="https://img.shields.io/badge/-Shteyd-black?style=for-the-badge&logo=habr&logoColor=ffffff" /></a>
+  <a href="https://linkedin.com/in/shteyd"><img align="center" src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+  <a href="https://t.me/Shteyd"><img align="center" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=ffffff" /></a>
+  <a href="https://career.habr.com/Shteyd"><img align="center" src="https://img.shields.io/badge/-Habr-black?style=for-the-badge&logo=habr&logoColor=ffffff" /></a>
 </p>
